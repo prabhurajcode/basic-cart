@@ -2,11 +2,10 @@
   border: 1px solid #dee2e6;
   border-radius: 0.5rem;
   transition: transform 0.3s ease-in-out;
-
 }
 
 .card-img-top {
-  height: 400px; 
+  height: 400px;
   width: 350px;
   object-fit: cover;
 }
@@ -23,10 +22,10 @@
 }
 
 .btn {
-  margin-top: auto; 
+  margin-top: auto;
 }
 
-.card-text{
+.card-text {
   align-items: center;
   text-align: center;
   font-weight: bold;
@@ -38,5 +37,5 @@
 }
 
 .btn:hover {
-  transform: translateY(-3px); 
+  transform: translateY(-3px);
 }
